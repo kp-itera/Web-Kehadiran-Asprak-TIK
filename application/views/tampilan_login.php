@@ -159,9 +159,8 @@
 				<div class="row">
 					<div class="col-md-7 col-sm-7" style="color: #fff;">
 						<blockquote>
-							<h1 style="color: #fff"><strong>SITA GEOFISIKA </strong></h1>
-							<p>Selamat Datang di Sistem Informasi Tugas Akhir GEOFISIKA ITERA.</p>
-							<p>Jangan memberikan akun login (nama pengguna dan kata sandi) anda pada siapapun. <br>Keamanan data anda terletak pada anda sendiri.</p>
+							<h1 style="color: #fff"><strong>Dewan Asprak UPT Laboratorium</strong></h1>
+							<p>Selamat Datang di Sistem Informasi Asisten Praktikum UPT Laboratorium ITERA.</p>
 						  	<footer style="color: #fff">Administrator</footer>
 						</blockquote>
 					</div>
@@ -170,7 +169,7 @@
 						<div class="login-box">
 						  <div class="form-title" id="latarbelakang">
 						     <font color="white">
-						      <h1><i class="glyphicon glyphicon-lock"></i>&nbsp; <b>SITA</b> Login</h1>
+						      <h3><i class="glyphicon glyphicon-lock"></i>&nbsp; Login</h3>
 						     </font>
 						  </div>
 						  <!-- /.login-logo -->
@@ -198,8 +197,8 @@
 						        <div class="col-xs-5">
 						          <p><?php echo $image ?></p>
 						        </div>
-						      </div>
-
+							  </div>
+					
 						      <div class="form-group has-feedback">
 						        <input type="text" name="captcha_code" id="captcha_code" class="form-control" placeholder="Ketikkan kode diatas" required>
 						        <span class="glyphicon glyphicon-barcode form-control-feedback"></span>
@@ -209,7 +208,7 @@
 						        <div class="col-xs-8">
 						          <div class="checkbox icheck">
 						            <label>
-						              <input type="checkbox">&nbsp&nbspIngat Saya
+						              <input type="checkbox">&nbsp&nbsp Ingat Saya
 						            </label>
 						          </div>
 						        </div>
@@ -222,32 +221,7 @@
 						          </button>
                </div>
 						        </div>
-						        <!-- /.col -->
-						      </div>
-						    </form>
-
-						    <div class="text-center">
-           <p><font color="#1a1816">- Atau -</font></p>
-						    </div>
-						    <div class="row">
-						      <!-- <div class="col-xs-8">
-						       <div class="text-left">
-						        <a href="<?php echo base_url();?>Lupapas" class="btn btn-danger">
-						         <i class="fa fa-key"></i>
-						         Lupa Password
-						        </a>
-						       </div>
-						      </div> -->
-						      <!-- /.col -->
-						      <div class="col-xs-4">
-						       <div class="text-right">
-						        <a href="<?php echo base_url();?>Register"  class="btn btn-success">
-						         <i class="fa fa-user"></i>&nbsp
-						         Daftar
-						        </a>
-						       </div>
-						      </div>
-						      <!-- /.col -->
+						        <!-- /.col -->						      
 						    </div>
 						  </div>
 						  <!-- /.login-box-body -->
