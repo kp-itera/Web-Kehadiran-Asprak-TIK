@@ -8,6 +8,8 @@ application/logs/*
 
 !application/*/.htaccess
 
+captcha
+
 composer.lock
 
 user_guide_src/build/*
